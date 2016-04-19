@@ -15,7 +15,7 @@ Data were scraped from the above web page starting from the most recent posts in
 Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL 
 are obtained and stored in the form of data frame in R for analysis. 
  
-For example, scaped rental information will be aquired as follows
+For example, scaped rental information will be aquired as follows,
 
 
     ##                                                                               Title             Date Price Bedrooms SqFt
