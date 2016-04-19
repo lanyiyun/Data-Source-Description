@@ -3,10 +3,12 @@ Data-Source-Description
 This is the description for the incubator challange question 3 with regards to the data source
 
 
-Data source: Craigslist Chicago Website `(https://chicago.craigslist.org)`
+Data source: Craigslist Chicago Website 
 ----------------------------------------------------------------
 
 A typical Craiglist rental post is usually listed similar to the following screensnap shot
+`(https://chicago.craigslist.org)`
+
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/CraigslistChicago.png)
 
 Data Scrape
