@@ -14,6 +14,11 @@
 ###### Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL are obtained and stored in ###### the form of data frame in R for analysis. 
 ###### 
 ###### For example, scaped rental information will be aquired as follows
+######-----------------------------------------------------------------------
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ###### Title             Date Price Bedrooms SqFt
 ######1                                                           Spring Over To Westbrook 2016-04-19 09:45   620        2  750
 ######2             UNMATCHED URBAN EXPERIENCE... (architect designed 3BR live/work LOFTS) 2016-04-19 09:44  3475        3 1803
