@@ -13,6 +13,9 @@
 ##### are obtained and stored in the form of data frame in R for analysis. 
 ##### 
 ##### For example, scaped rental information will be aquired as follows
+
+
+
 #####
 |                   Title                | Date | Price | Bedrooms | SqFt | Location | URL |
 | -------------------------------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
