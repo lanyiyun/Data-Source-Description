@@ -5,14 +5,16 @@ This is the description for incubator challange question 3 with regards to the d
 
 Data source: Craigslist Chicago Website (chicago.craigslist.org)
 ----------------------------------------------------------------
-##### A typical Craiglist rental post is usually listed similar to the following screensnap shot
+A typical Craiglist rental post is usually listed similar to the following screensnap shot
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/CraigslistChicago.png)
-#####
-##### Data were scraped from the above web page starting from the most recent posts in a decending order.
-##### Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL 
-##### are obtained and stored in the form of data frame in R for analysis. 
-##### 
-##### For example, scaped rental information will be aquired as follows
+
+Data Scrape
+-----------
+Data were scraped from the above web page starting from the most recent posts in a decending order.
+Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL 
+are obtained and stored in the form of data frame in R for analysis. 
+ 
+For example, scaped rental information will be aquired as follows
 
 
     ##                                                                               Title             Date Price Bedrooms SqFt
