@@ -1,4 +1,4 @@
-### Data-Source-Description
+#### Data-Source-Description
 ================================================
 This is the description for incubator challange question 3 with regards to the data source
 Data source: Craigslist Chicago Website (chicago.craigslist.org)
