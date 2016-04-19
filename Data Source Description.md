@@ -6,8 +6,8 @@
 #####------------------------------------------------------------------------------------------------------
 
 ##### A typical Craiglist rental post is usually listed similar to the following screensnap shot
-#####
-#####
+\n
+\n
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/CraigslistChicago.png)
 #####
 #####
