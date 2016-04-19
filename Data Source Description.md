@@ -15,12 +15,12 @@
 ###### 
 ###### For example, scaped rental information will be aquired as follows
 ######-----------------------------------------------------------------------
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-###### Title             Date Price Bedrooms SqFt
-######1                                                           Spring Over To Westbrook 2016-04-19 09:45   620        2  750
+| Title  | Date | Price | Bedrooms | SqFt | Location | URL |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Spring Over To Westbrook  | 2016-04-19 09:45  | 620  | 2  | 750  | Westbrook Apts.  | https://chicago.craigslist.org/nwi/apa/5546370949.html  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+######                 
+######1                                                                       2  750
 ######2             UNMATCHED URBAN EXPERIENCE... (architect designed 3BR live/work LOFTS) 2016-04-19 09:44  3475        3 1803
 ######3                     ~Brand NEW Spacious 2BD/2BA with Private Entrance Door ~Summer 2016-04-19 09:44  1090        2 1076
 ######4             BALCONY / WD / SS / HDWD / POOL / SPA / MODERN / WALK IN CLOSET / HUGE 2016-04-19 09:44  1899        1 <NA>
@@ -28,8 +28,8 @@
 ######6                 MAGNIFICIENT GOLD COAST LIVING / SS / 9' CEILING / WD / HDWD / NEW 2016-04-19 09:44  3589        2 <NA>
 ######7             GREAT UPGRADES / AWESOME LOCATION / HDWD / SS / VIEWS / AON / COLUMBIA 2016-04-19 09:44  1849        1 <NA>
 
-###### Location                                                    URL
-######1                             Westbrook Apts. https://chicago.craigslist.org/nwi/apa/5546370949.html
+######                                                     
+######1                              
 ######2                           downtown evanston https://chicago.craigslist.org/nch/apa/5501391025.html
 ######3                        Willow Creek Estates https://chicago.craigslist.org/nwi/apa/5502823490.html
 ######4       LAKESHORE EAST / LOOP / STREETERVILLE https://chicago.craigslist.org/chc/apa/5526457976.html
