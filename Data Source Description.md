@@ -11,7 +11,7 @@ A typical Craiglist [(chicago.craigslist.org)](https://chicago.craigslist.org) r
 
 
 
-![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/CraigslistChicago.png)
+![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/ChicagoCraigslist.png)
 
 Data Scrape
 -----------
