@@ -1,20 +1,20 @@
-# Data-Source-Description
+### Data-Source-Description
 ####---------------------------------------------------------------
 ####
 #### This is the description for incubator challange question 3 with regards to the data source
 #### By Yiyun L (4-18-2016) at Northwestern U
 ####
 ####----------------------------------------------------------------
-##### Data source: Craigslist Chicago Website (chicago.craigslist.org)
+###### Data source: Craigslist Chicago Website (chicago.craigslist.org)
 
-##### A typical Craiglist rental post is usually listed similar to the following screensnap shot
+###### A typical Craiglist rental post is usually listed similar to the following screensnap shot
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/CraigslistChicago.png)
 
-##### Data were scraped from the above web page starting from the most recent posts in a decending order.
-##### Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL are obtained and stored in ##### the form of data frame in R for analysis. 
-##### 
-##### For example, scaped rental information will be aquired as follows
-##### Title             Date Price Bedrooms SqFt
+###### Data were scraped from the above web page starting from the most recent posts in a decending order.
+###### Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL are obtained and stored in ###### the form of data frame in R for analysis. 
+###### 
+###### For example, scaped rental information will be aquired as follows
+###### Title             Date Price Bedrooms SqFt
 1                                                           Spring Over To Westbrook 2016-04-19 09:45   620        2  750
 2             UNMATCHED URBAN EXPERIENCE... (architect designed 3BR live/work LOFTS) 2016-04-19 09:44  3475        3 1803
 3                     ~Brand NEW Spacious 2BD/2BA with Private Entrance Door ~Summer 2016-04-19 09:44  1090        2 1076
