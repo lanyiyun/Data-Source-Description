@@ -9,8 +9,6 @@ Data source: Craigslist Chicago Website
 
 A typical Craiglist [(chicago.craigslist.org)](https://chicago.craigslist.org) rental post is usually listed similar to the following screensnap shot
 
-
-
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/ChicagoCraigslist.png)
 
 Data Scrape
@@ -18,7 +16,7 @@ Data Scrape
 Data were scraped from the above web page (Install: `devtools::install_github("adletaw/craigr")`) starting from the most recent posts in a decending order.Rental information regarding Title, Post Date, Price, Number of Bedrooms, Square Foots, Location, URL 
 are obtained and stored in the form of data frame in R for analysis. 
  
-For example, scaped rental information will be aquired as follows,
+For example, scaped rental information will be aquired as follows. The first record corresponds data from the screensnap shot shown above.
 
 
     ##                                                                               Title             Date Price 
