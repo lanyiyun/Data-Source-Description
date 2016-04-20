@@ -15,7 +15,7 @@ Data Acquisition
 -----------
 Data were scraped from the above web page (Install: `devtools::install_github("adletaw/craigr")`) starting from the most recent posts in a decending order of post date (as shown below). Rental information regarding `Title`, `Post Date`, `Price`, `Number of Bedrooms`, `Square Foots`, `Location`, `URL` are obtained and stored in the form of data frame in R for analysis. 
  
-*The first record corresponds data from the screen snapshot shown above.
+*The first record corresponds to the data scraped from the Craigslist post shown in the above screen snapshot.
 
 
     ##                                                                               Title             Date Price 
