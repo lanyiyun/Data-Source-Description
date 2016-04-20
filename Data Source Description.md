@@ -4,7 +4,7 @@ This is the description for the incubator challange question 3 with regards to t
 *(By Yiyun L, 4-18-2016)*
 
 
-Data source: Craigslist Chicago Website 
+Data Source: Craigslist Chicago Website 
 ----------------------------------------------------------------
 
 A typical Craiglist [(chicago.craigslist.org)](https://chicago.craigslist.org) rental post is usually listed similar to the following screen snapshot
