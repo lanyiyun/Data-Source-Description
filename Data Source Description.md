@@ -34,4 +34,4 @@ For example, scaped rental information will be aquired as follows. The first rec
     ##5      1     <NA>  STREETERVILLE / RIVERNORTH / GOLD COAST https://chicago.craigslist.org/chc/apa/5528228713.html
     ##6      2     <NA>      GOLD COAST / RIVER NORTH / OLD TOWN https://chicago.craigslist.org/chc/apa/5528229330.html
 
-`Location` information was used to acquire `latitude` and `longtitude` from Google API with JSON so that locations can be correctly pinned on a Google map of Chicago neighborhoods. 
+`Location` information was used to acquire `latitude` and `longtitude` from Google API with JSON so that locations can be correctly pinned on a Google map of Chicago Metropolitan Area. 
