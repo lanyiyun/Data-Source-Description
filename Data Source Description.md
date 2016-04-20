@@ -11,7 +11,7 @@ A typical Craiglist [(chicago.craigslist.org)](https://chicago.craigslist.org) r
 
 ![alt tag](https://github.com/lanyiyun/Data-Source-Description/blob/master/ChicagoCraigslist.png)
 
-Data Scrape
+Data Acquisition
 -----------
 Data were scraped from the above web page (Install: `devtools::install_github("adletaw/craigr")`) starting from the most recent posts in a decending order. Rental information regarding `Title`, `Post Date`, `Price`, `Number of Bedrooms`, `Square Foots`, `Location`, `URL` 
 are obtained and stored in the form of data frame in R for analysis. 
